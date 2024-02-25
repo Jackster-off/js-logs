@@ -15,5 +15,5 @@ description  'Add join/leave logs to your fivem server'
 --[[ Manifest ]]--
 
 client_scripts {
-	'logger.lua'
+	'client.lua'
 }
