@@ -6,5 +6,5 @@ Join/Leave logs for your fivem server.
 
 How to configure:
 
-1) Open logger.lua 
+1) Open client.lua 
 2) change the values at the top to your webhook, server name and logo.
